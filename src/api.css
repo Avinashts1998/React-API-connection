@@ -1,0 +1,12 @@
+.bg-container{
+    background-color: green;
+    height: 30px;
+    width: 400px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
